@@ -22,7 +22,7 @@ After performing Operation-1, user needs to review the PR and get it merged. Thi
 Both operation-1 and operation-2 are automated and work based on given inputs. There are 3 major inputs:
 - The scope of the entities to be migrated eg: project level / org level / account level entities
 - The type of entities to be migrated eg: PIPELINE / TEMPLATES / SERVICES etc.
-- The step to be performed, whether its operation-1 or operation-2
+- The operation to be performed, whether its operation-1 or operation-2
 
 Notes:
 - It migrates a given type of entity for given scope in one go. It needs to be run separately for all entities and all scopes. Combining more entities and scopes together would run into a complex solution, thus avoided at this point of time.
