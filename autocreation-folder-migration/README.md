@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/994fb234-8161-4bc4-9cd2-22d4ac71d1a9)# Autocreation Folder Migration
+# Autocreation Folder Migration
 
 This utility helps to migrate existing files into Harness Gitx's conventional folders, used for autocreation as well. Users can directly refer to the source code here to run it on their systems or install and run docker image based solution for quick access.
 
@@ -40,9 +40,7 @@ We need a file "keys.json" to hold some environment variables for the utility to
 }
 ```
 
-![image](https://github.com/user-attachments/assets/f3696de2-ae62-405b-ba1f-492d21b0aad3)
-
-
+![image](https://github.com/user-attachments/assets/994fb234-8161-4bc4-9cd2-22d4ac71d1a9)
 
 
 ## How to use
