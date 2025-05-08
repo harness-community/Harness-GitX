@@ -29,7 +29,7 @@ Notes:
 - Operation-1 and Operation-2 are idempotent in nature. Operation-2 needs to be performed only after Operation-1 to avoid any issues.
 
 
-key.json sample file
+We need a file "keys.json" to hold some environment variables for the utility to function:
 ```
 {
   "account-id": "your-harness-account-id",
